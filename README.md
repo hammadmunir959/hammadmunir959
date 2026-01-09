@@ -97,7 +97,7 @@ As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated
   ### 💬 Let's Connect & Build Something Amazing!
   
   <p>
-    <i>"Transforming ideas into intelligent systems, one agent at a time."</i>
+    <i>"Where curiosity meets algorithms — I build the intelligence that turns data into decisions."</i>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer" width="100%" />
