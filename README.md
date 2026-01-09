@@ -5,13 +5,13 @@
 
   <!-- Animated Typing -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents;%F0%9F%94%8D+Crafting+RAG+Pipelines;%F0%9F%9A%80+Deploying+ML+Services" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Autonomous+AI+Agents;Crafting+RAG+Pipelines;Deploying+ML+Services" alt="Typing SVG" />
   </a>
 
   <!-- Animated Wave -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-  <!-- Social Badges with hover animation -->
+  <!-- Social Badges -->
   <p>
     <a href="https://linkedin.com/in/hammadmunir959">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -34,25 +34,25 @@
 
 <img align="right" alt="AI Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-## 🧠 About Me
+## About Me
 
 As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated AI systems that transform businesses.
 
-- 🤖 **Building** autonomous **LLM-based agents** with multi-step reasoning
-- 🔍 **Developing** production-grade **RAG pipelines** for intelligent search
-- ⚡ **Creating** scalable **ML-powered applications** with FastAPI
-- 🐳 **Delivering** containerized **AI microservices** with Docker
-- 🔄 **Automating** complex workflows with **n8n** & LangGraph
+- **Building** autonomous **LLM-based agents** with multi-step reasoning
+- **Developing** production-grade **RAG pipelines** for intelligent search
+- **Creating** scalable **ML-powered applications** with FastAPI
+- **Delivering** containerized **AI microservices** with Docker
+- **Automating** complex workflows with **n8n** & LangGraph
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -62,7 +62,7 @@ As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### 🔧 Backend & DevOps
+### Backend & DevOps
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -72,7 +72,7 @@ As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🧬 Specialized Tools
+### Specialized Tools
 <p>
   <img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-00A89D?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -84,7 +84,7 @@ As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadmunir959&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
@@ -94,7 +94,7 @@ As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated
 
 <div align="center">
   
-  ### 💬 Let's Connect & Build Something Amazing!
+  ### Let's Connect & Build Something Amazing!
   
   <p>
     <i>"Where curiosity meets algorithms, intelligence follows."</i>
