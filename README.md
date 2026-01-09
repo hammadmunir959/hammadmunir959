@@ -84,27 +84,10 @@ As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammadmunir959&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadmunir959&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadmunir959&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=F97316&currStreakLabel=8B5CF6" />
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadmunir959&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadmunir959&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" />
 </div>
 
 ---
