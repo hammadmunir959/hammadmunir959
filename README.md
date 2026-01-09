@@ -1,59 +1,124 @@
 <div align="center">
- 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hammad%20Munir&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Agents%20%7C%20RAG%20Systems&descSize=20&descAlignY=51&fontColor=ffffff)
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=300&section=header&text=Hammad%20Munir&fontSize=90&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Agents%20%E2%80%A2%20RAG%20Systems%20%E2%80%A2%20ML%20Applications&descSize=22&descAlignY=55&fontColor=ffffff" width="100%" />
 
-  ### 🚀 Architecting Intelligent Systems
+  <!-- Animated Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents;%F0%9F%94%8D+Crafting+RAG+Pipelines+%26+Search+Systems;%F0%9F%9A%80+Deploying+Production-Ready+ML+Services" alt="Typing SVG" />
+  </a>
 
-  <p align="center">
+  <!-- Animated Wave -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+  <!-- Social Badges with hover animation -->
+  <p>
     <a href="https://linkedin.com/in/hammadmunir959">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:hammadmunir959@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/hammadmunir959">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=hammadmunir959&style=for-the-badge&color=6366f1" alt="Profile Views" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<img align="right" alt="AI Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-As an **Artificial Intelligence Engineer**, I design and develop sophisticated AI systems, focusing on **LLM-based agents**, **RAG pipelines**, and **ML-powered applications** that solve real-world problems. My work involves building multi-step agent workflows using **LangGraph** and developing systems for structured information retrieval.
+## 🧠 About Me
 
-*   🔭 I’m currently building **autonomous AI agents** and **RAG systems**.
-*   🤝 I’m looking to collaborate on **Open Source AI projects**.
-*   💻 My technical contributions include developing API-first AI services using **FastAPI** and designing **n8n workflows**.
-*   🐳 I specialize in delivering **Dockerized AI services** ensuring scalable and reproducible deployments.
+As an **Artificial Intelligence Engineer**, I architect and deploy sophisticated AI systems that transform businesses.
+
+- 🤖 **Building** autonomous **LLM-based agents** with multi-step reasoning
+- 🔍 **Developing** production-grade **RAG pipelines** for intelligent search
+- ⚡ **Creating** scalable **ML-powered applications** with FastAPI
+- 🐳 **Delivering** containerized **AI microservices** with Docker
+- 🔄 **Automating** complex workflows with **n8n** & LangGraph
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,fastapi,docker,postgres,mongodb,git,linux,bash&theme=dark" alt="Tech Stack" />
-  <br/><br/>
-  <!-- Custom Badges for things not in skillicons -->
-  <img src="https://img.shields.io/badge/LangGraph-Search-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-Pipelines-00a89d?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### 🔧 Backend & DevOps
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🧬 Specialized Tools
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-00A89D?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadmunir959&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadmunir959&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammadmunir959&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadmunir959&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadmunir959&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadmunir959&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=F97316&currStreakLabel=8B5CF6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadmunir959&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadmunir959&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  
+  ### 💬 Let's Connect & Build Something Amazing!
+  
+  <p>
+    <i>"Transforming ideas into intelligent systems, one agent at a time."</i>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer" width="100%" />
+  
 </div>
